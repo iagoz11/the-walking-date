@@ -334,8 +334,6 @@ footer{
 }
 html[data-theme='light']{
 
-  :root{
-
     --cor-fundo-base: #f4f4f9;
     --cor-texto-base: #111111;
     --cor-superficie: #ffffff;
@@ -344,7 +342,6 @@ html[data-theme='light']{
     --cor-zumbi: #006400;
     --cor-input-fundo: #ffffff;
     --cor-input-texto: #333333;
-  }
 
 }
 
